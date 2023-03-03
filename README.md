@@ -15,9 +15,9 @@ Traffic ...).</p>
 
 ### :woman_technologist: &nbsp;About Me :
 
-I am a Data Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Cameroon.
+I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Cameroon.
 
-- 🔭 I’m working as a Data Engineer focused on ETL and Web Scraping alongside their interactions in AWS.
+- 🔭 Focused on API Dev | ETL | Web Scraping | AWS | Chatbot
 - 🌱 Exploring Data and their behaviour.
 - ⚡ In my free time I build python packages that may be helpful and read tech articles.
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-brunotmouan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/brunot-mouan/)
@@ -27,7 +27,7 @@ I am a Data Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 ### 📫 Skills and Interests:
 - Programming Language(s): Python
 - OS: Linux
-- Project Management: Notion
+- Project Management: Notion/Asana
 - Others: Agile
 - Language(s): French and English
 - Interests: Robotics, Data Science, Artificial Intelligence, Web Scraping, Machine Learning, Deep Learning, Rasa Chatbot, Web Scraping
